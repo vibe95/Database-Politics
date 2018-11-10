@@ -1,0 +1,12 @@
+id,country_id,e_date,wikipedia,seats_total,electorate,votes_cast,votes_valid
+357,54,2004-06-13,"http://en.wikipedia.org/wiki/European_Parliament_election,_2004_(Germany)",99,61682394,26523104,25783678
+375,44,1979-06-10,"http://en.wikipedia.org/wiki/European_Parliament_election,_1979_(United_Kingdom)",81,41155166,13446091,13397858
+595,43,2004-06-13,"http://en.wikipedia.org/wiki/European_Parliament_election,_2004_(France)",78,41509136,17763671,17168682
+582,44,2004-06-10,"http://en.wikipedia.org/wiki/European_Parliament_election,_2004_(United_Kingdom)",78,44157267,1700780,16869020
+118,43,2009-06-07,"http://en.wikipedia.org/wiki/European_Parliament_election,_2009_(France)",72,44282823,17992161,17218614
+582,44,1984-06-17,"http://en.wikipedia.org/wiki/European_Parliament_election,_1984_(United_Kingdom)",81,42493122,13998190,13961422
+385,54,2009-06-07,"http://en.wikipedia.org/wiki/European_Parliament_election,_2009_(Germany)",99,62222873,26923614,26333444
+118,43,1999-06-13,"http://en.wikipedia.org/wiki/European_Parliament_election,_1999_(France)",87,40132517,18766155,17647172
+333,54,1989-06-18,"http://en.wikipedia.org/wiki/European_Parliament_election,_1989_(West_Germany)",81,45773179,28508598,28206690
+568,44,1994-06-09,"http://en.wikipedia.org/wiki/European_Parliament_election,_1994_(United_Kingdom)",87,43441774,15852589,15811039
+407,43,1989-06-18,"http://en.wikipedia.org/wiki/European_Parliament_election,_1989_(France)",81,38297496,18690692,18151416

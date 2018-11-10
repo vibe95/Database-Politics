@@ -1,0 +1,20 @@
+first connect to teaching labs. using ssh 
+to file transfer use filezilla
+to connect to database follow this: 
+ssh <your_cs_teaching_lab_username>@dbsrv1.teach.cs.toronto.edu
+psql csc343h-<your_cs_teaching_lab_username>
+
+to load ddl file do:
+\i parlgovSchema.ddl
+
+
+usefull instructions
+http://www.teach.cs.toronto.edu/~csc343h/winter/postgres.html
+
+
+
+
+
+USEFULL SQL TIPS -------
+to show data in a table use this: SELECT * FROM mytable LIMIT 10;
+
